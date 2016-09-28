@@ -1,0 +1,169 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "David Guetta"
+    },
+    {
+      "id": 2,
+      "name": "Calvin Harris"
+    },
+    {
+      "id": 3,
+      "name": "Steve Aoki"
+    },
+    {
+      "id": 4,
+      "name": "Tiesto"
+    }
+  ],
+  "1": {
+    "discography": [
+      {
+        "title": "Just a Little More Love",
+        "release_year": 2002,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/4/4d/Just_a_Little_More_Love_-_David_Guetta.JPG",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Guetta Blaster",
+        "release_year": 2004,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/Guetta_Blaster_-_David_Guetta.jpg/440px-Guetta_Blaster_-_David_Guetta.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Pop Life",
+        "release_year": 2007,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/04/Pop_Life_-_David_Guetta.jpg/440px-Pop_Life_-_David_Guetta.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "One Love",
+        "release_year": 2009,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/9/93/One_Love.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Nothing But the Beat",
+        "release_year": 2011,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/CAPA_CD_NOTHING_BUT_THE_BEAT.jpg/440px-CAPA_CD_NOTHING_BUT_THE_BEAT.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Listen",
+        "release_year": 2014,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d7/David_Guetta_Listen.jpg/440px-David_Guetta_Listen.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      }
+    ]
+  },
+  "2": {
+    "discography": [
+      {
+        "title": "I Created Disco",
+        "release_year": 2007,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/c/c8/C_HARRIS_Disco.jpg/440px-C_HARRIS_Disco.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Ready for the Weekend",
+        "release_year": 2009,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/3/36/Calvin_Harris_-_Ready_for_the_Weekend_capa.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "18 Months",
+        "release_year": 2012,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/2/2a/Calvin_Harris_-_18_Months_cover.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Motion",
+        "release_year": 2014,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/2/2a/Calvin_Harris_-_18_Months_cover.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      }
+    ]
+  },
+  "3": {
+    "discography": [
+      {
+        "title": "I love techno",
+        "release_year": 2010,
+        "cover_url": "data:image/jpeg;base64,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",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Wonderland",
+        "release_year": 2012,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SteveAoki-Wonderland-Cover.jpg/440px-SteveAoki-Wonderland-Cover.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Neon Future I",
+        "release_year": 2014,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/fe/Neon_Future.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Neon Future II",
+        "release_year": 2015,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/8/8c/Neon_Future_2.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Neon Future Odyssey",
+        "release_year": 2015,
+        "cover_url": "http://www.gratefulweb.com/sites/default/files/styles/article_main_image_display/public/images/articles/faasdadsadas.jpg?itok=eRyn6RNl",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "4OKI",
+        "release_year": 2016,
+        "cover_url": "http://www.steveaoki.com/site/wp-content/uploads/2016/07/SteveAoki.4OKIEP_800px.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      }
+    ]
+  },
+  "4": {
+    "discography": [
+      {
+        "title": "In My Memory",
+        "release_year": 2001,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/0/00/Inmymemoryalbum.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Just Be",
+        "release_year": 2004,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/3/33/Justbealbum.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Elements of Life",
+        "release_year": 2007,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Tiesto-elements-of-life.jpg/440px-Tiesto-elements-of-life.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Kaleidoscope",
+        "release_year": 2009,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/2/22/Tiestokaleidoscope.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "Kiss from the Past",
+        "release_year": 2011,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AllureKissFromThePast.jpg/440px-AllureKissFromThePast.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      },
+      {
+        "title": "A Town Called Paradise",
+        "release_year": 2014,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Tiesto_-_A_Town_Called_Paradise.jpg/440px-Tiesto_-_A_Town_Called_Paradise.jpg",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sodales risus sed suscipit viverra. Fusce vitae placerat orci, congue congue libero. Curabitur diam diam, feugiat nec ex et, cursus faucibus purus. Pellentesque eu dui sodales, tempor mi in, posuere mauris. Nunc sed quam odio. Phasellus gravida, mi vel suscipit vehicula, turpis sem varius enim, eget luctus tortor est in sem."
+      }
+    ]
+  }
+}
+

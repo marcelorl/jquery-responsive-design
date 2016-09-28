@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Méliuz</title>
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    </head>
+    <body>
+        <section id="search-bar-container">
+            <div class="search-bar">
+                <div class="search-bar__icon"></div>
+                <input class="search-bar__input" type="text" />
+            </div>
+            <ul class="list list-artist"></ul>
+        </section>
+
+        <section id="albums-container">
+            <ul class="list list-albums"></ul>
+			<button type="button" class="btn-load">LOAD MORE</button>
+			<div class="loader"></div>
+        </section>
+
+        <script src="dist/bundle.js"></script>
+    </body>
+</html>

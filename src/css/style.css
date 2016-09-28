@@ -1,0 +1,264 @@
+body {
+    background: #eaeaea;
+    font-family: 'Source Sans Pro', sans-serif;
+	margin: 0;
+}
+
+input {
+    font-family: inherit;
+}
+
+#search-bar-container {
+    margin: auto;
+	padding-top: 30px;
+    width: 25%;
+}
+
+.search-bar {
+    background: #ffffff;
+    border: #d8d8d8 solid 1px;
+    display: flex;
+    height: 40px;
+    width: 100%;
+
+	-webkit-box-shadow: inset 0px 0px 5px 0px #d8d8d8;
+	-moz-box-shadow: inset 0px 0px 5px 0px #d8d8d8;
+	box-shadow: inset 0px 0px 5px 0px #d8d8d8;
+
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+}
+
+.search-bar__icon {
+    background: url('../images/magnifier.png') no-repeat center;
+    background-size: 50% 50%;
+    height: 40px;
+    width: 40px;
+}
+
+.search-bar__input {
+	background-color: transparent;
+    border: none;
+	font-size: 16px;
+    outline: none;
+	text-indent: 5px;
+	width: 100%;
+}
+
+.list {
+	background: #ffffff;
+	cursor: pointer;
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.list li:hover {
+	background-color: #edf4fd;
+}
+
+.list li:first-child:hover {
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+.list li:last-child:hover {
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.list-artist {
+	margin-top: 10px;
+	position: absolute;
+    width: inherit;
+
+    -webkit-box-shadow: 0px 0px 3px 0px #d7d7d7;
+    -moz-box-shadow:    0px 0px 3px 0px #d7d7d7;
+    box-shadow:         0px 0px 3px 0px #d7d7d7;
+}
+
+.list-artist li {
+    padding: 15px;
+}
+
+#albums-container {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	margin: 30px 0;
+}
+
+.btn-load {
+	background: #498ede;
+	border: none;
+	color: #ffffff;
+	cursor: pointer;
+	display: none;
+	font-size: 14px;
+	margin: 30px 0;
+	outline: none;
+	padding: 10px 25px;
+
+	border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+}
+
+.loader {
+	background-image: url("../images/loader.gif");
+	display: none;
+	margin: 30px 0;
+}
+
+.list-albums {
+	margin: auto;
+	width: 80%
+}
+
+.list-albums li {
+	align-items: center;
+	border-bottom: 1px #c3c3c3 solid;
+	display: flex;
+	height: 80px;
+	padding: 20px 25px;
+}
+
+.list-albums li:last-child {
+	border-bottom: none;
+}
+
+.list-albums__item__image {
+	height: 100%;
+	margin-right: 15px;
+	width: 80px;
+}
+
+.list-albums__item__name {
+	font-size: 20px;
+	width: 100%;
+}
+
+.list-albums__item__year {
+	color: #9b9b9b;
+}
+
+.modal {
+	height: 100%;
+	position: absolute;
+	width: 100%;
+}
+
+.modal__layer {
+	height: inherit;
+	background: #000000;
+	opacity: 0.7;
+	position: fixed;
+	top: 0;
+	width: inherit;
+}
+
+.modal__container {
+	background: #ffffff;
+	display: flex;
+	margin: 45px auto;
+	padding: 40px;
+	position: relative;
+	width: 50%;
+
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.modal__container__image {
+	height: 200px;
+	margin-right: 20px;
+	width: 200px;
+}
+
+.modal__container__info__artist {
+	color: #c3c3c3;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.modal__container__info__album {
+	font-size: 36px;
+}
+
+.modal__container__info__year {
+	color: #c3c3c3;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.modal__container__close {
+	background-image: url('../images/cross.png');
+	background-size: 100% 100%;
+	cursor: pointer;
+	height: 20px;
+	padding: 0 !important;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	width: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	#search-bar-container {
+		width: 80%;
+	}
+
+	.modal__container {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 544px) {
+	.modal__container {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		position: fixed;
+		width: 100%;
+
+		border-radius: 0px;
+		-webkit-border-radius: 0px;
+		-moz-border-radius: 0px;
+	}
+
+	.modal__container > * {
+		padding: 20px;
+	}
+
+	.modal__container__info {
+		overflow: auto;
+	}
+
+	.modal__container__image {
+		height: 300px;
+		margin: auto;
+		width: 70%;
+	}
+
+	.list-albums__item__image {
+		width: 85px;
+	}
+}
