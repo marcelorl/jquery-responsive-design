@@ -1,5 +1,7 @@
 # Jquery responsive design
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcelorl/jquery-responsive-design.svg)](https://greenkeeper.io/)
+
 ### Installation
 
  - `npm i --silent progress=false`
